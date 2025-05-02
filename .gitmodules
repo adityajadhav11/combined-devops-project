@@ -1,0 +1,6 @@
+[submodule "aj-electronics-site"]
+	path = aj-electronics-site
+	url = https://github.com/adityajadhav11/aj-electronics-site.git
+[submodule "cicd-devops-project"]
+	path = cicd-devops-project
+	url = https://github.com/adityajadhav11/cicd-devops-project.git
